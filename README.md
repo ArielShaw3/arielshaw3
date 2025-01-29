@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there!
 
-I'm Ariel: a developer at Leasecake. My focuses are on leading one of our software teams, full-stack web development, and accounting services. Most recently, we launched a tool to generate [ASC 842](https://leasecake.com/asc-842-what-is-it-and-what-exactly-is-changing/) accounting reports. I have a ton of interests, but most recently found myself focusing on **software testing**, **AI/ML**, and **ethics in technology**.
+I'm Robin: a developer at Leasecake. My focuses are on leading one of our software teams, full-stack web development, and accounting services. Most recently, we launched a tool to generate [ASC 842](https://leasecake.com/asc-842-what-is-it-and-what-exactly-is-changing/) accounting reports. I have a ton of interests, but most recently found myself focusing on **software testing**, **AI/ML**, and **ethics in technology**.
 
 I am always looking to learn and grow as a developer, so please feel free to connect with me and share your thoughts on my work. You can also find my personal portfolio at https://rshaw5.github.io/.
 
